@@ -1,0 +1,11 @@
+Food,Category,Price
+Apple,Fruit,0.5
+Banana,Fruit,0.3
+Carrot,Vegetable,0.4
+Donut,Dessert,1.0
+Egg,Protein,0.2
+Fish,Protein,3.0
+Grapes,Fruit,2.5
+Ham,Protein,5.0
+Ice Cream,Dessert,1.5
+Juice,Beverage,2.0
